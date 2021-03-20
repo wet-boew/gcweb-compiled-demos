@@ -3,8 +3,8 @@ title: '@ Example pour la création de composant méli-mélo'
 lang: fr
 altLangPage: index-en.html
 dateModified: 2021-02-06T00:00:00.000Z
-script: https://wet-boew.github.io/themes-dist/GCWeb/méli-mélo/2021-03-trial.js
-css: https://wet-boew.github.io/themes-dist/GCWeb/méli-mélo/2021-03-trial.css
+script: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2021-03-trial.js
+css: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2021-03-trial.css
 ---
 
 Ceci est un example afin de démontrer la structure nécessaire pour procéder à la création de composant méli-mélo.
