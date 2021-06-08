@@ -20,7 +20,7 @@ description:
     un cercle
 modified: 2021-05-21T00:00:00.000Z
 componentName: 2021-05-steps
-lead: CRA - Christopher Oakes (@christopher-o)
+sponsor: CRA - Christopher Oakes (@christopher-o)
 pages:
   examples:
     - title: Steps
