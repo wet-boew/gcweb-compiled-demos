@@ -1,0 +1,35 @@
+---
+title: "Démonstrations compilées - Compiled demos"
+dateModified: 2020-02-18
+description: "Page d'accueil de pages compilés automatiquement par le thème de Canada.ca, GCWeb."
+lang: fr
+layout: default
+---
+
+<p><a href="/GCWeb/">Retourner à la page principale de GCWeb.</a></p>
+
+<hr />
+
+<h2 id="méli-mélo">Méli-mélo compilé</h2>
+
+<ul>
+{% for item in site.data[ "mli-mlo" ].packages %}
+	<li>{{ item.nom }}
+		<ul>
+		{% for pack in item.libs %}
+			{% assign indexPage = site.data[ "mli-mlo" ].subProjects | where: "nom", pack | first %}
+			<li><a href="/gcweb-compiled-demos/méli-mélo-demos/{{ item.nom }}/{{ pack }}/{{ indexPage.mainpage }}">{{ pack }}</a></li>
+		{% endfor %}
+		</ul>
+	</li>
+{% endfor %}
+</ul>
+
+<hr />
+
+<h2 id="wet-boew">Aperçu des fonctionalité wet-boew avec le thème de Canada.ca - WET-BOEW feature demos styled with Canada.ca theme</h2>
+<ul>
+{% for demoPage in site.wetboew-demos %}
+  <li><a href="/gcweb-compiled-demos{{ demoPage.url }}" lang="{{ demoPage.language }}" hreflang="{{ demoPage.language }}">{{ demoPage.title }}</a></li>
+{% endfor %}
+</ul>
