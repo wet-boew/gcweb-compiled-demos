@@ -1,6 +1,11 @@
 remote_theme: wet-boew/gcweb-jekyll
 title: "GCWeb compiled demos"
 
+# Collections
+collections:
+  wetboew-demos:
+    output: true
+
 #
 # Page front matter defaults
 defaults:
