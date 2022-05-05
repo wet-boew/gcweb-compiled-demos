@@ -1,19 +1,20 @@
 ---
 feature: thématique
 lang: en
-title: Canada Day 2021
-description: Background color used for the Canada Day 2021 campaign
+title: Canada Day theme
+description: Background colours used for the Canada Day campaign
 componentName: th-canadaday
-expiry: June 30, 2022
+expiry: June 30, 2023
 mainPage: canada-day.html
 cssClass:
   - bg-canadaday
   - panel-canadaday
   - brdr-canadaday
+  - bg-canadaday-beige
 a11yStatement: >
-  This colour meets the colour contrast requirements as outlined in WCAG 2.0 AA
+  These colours meet the colour contrast requirements as outlined in WCAG 2.1 AA
   Success Criterion 1.4.3: Contrast (Minimum). Tested by Nick Frenette,
-  nick.frenette at canada.ca. 2021-06-01.
+  nick.frenette at canada.ca. 2022-05-03.
 peNote:
   - >-
     The <code>bg-canadaday</code> class must be accompagnied with another dark
@@ -21,9 +22,12 @@ peNote:
   - >-
     The <code>panel-canadaday</code> class must be accompagnied with a fall back
     color such as <code>panel-default</code>
+  - >-
+    Use <code>bg-canadaday-beige</code> with standard text colour to ensure
+    sufficient contrast between text and background
 pages:
   examples:
-    - title: Canada day 2021
+    - title: Canada Day theme
       language: en
       path: canada-day.html
 sponsor: PCH - Nick Frenette (@nfrenette)
