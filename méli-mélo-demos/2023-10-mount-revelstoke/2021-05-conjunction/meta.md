@@ -45,6 +45,8 @@ todos:
     Review code and governance to balance optimal accessibility and ease of
     implimentation by users.
 output: false
-script: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2022-06-banff.js
-css: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2022-06-banff.css
+script: >-
+  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2023-10-mount-revelstoke.js
+css: >-
+  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2023-10-mount-revelstoke.css
 ---
