@@ -39,8 +39,12 @@ implementationPlan:
     what: >-
       Have this feature as provisional feature in GCWeb and get TBS to publish
       guidance on how to use it.
+  - due: 2022-11
+    what: >-
+      added possible alternative design (lead zero) as a more minimalist
+      pattern.
 todos:
-  - Remove the support for <code>&lt;div&gt;</code>
+  - Write governance and rationale for the use of both designs
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2023-10-mount-revelstoke.js
