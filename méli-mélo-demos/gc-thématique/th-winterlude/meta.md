@@ -15,7 +15,7 @@ cssClass:
 a11yStatement: >
   These colours meet the colour contrast requirements as outlined in WCAG 2.1 AA
   Success Criterion 1.4.3: Contrast (Minimum). Tested by Nick Frenette,
-  nick.frenette at canada.ca. 2022-11-17.
+  nick.frenette at canada.ca. 2023-01-03.
 peNote:
   - >-
     The <code>bg-winterlude</code> class must be accompagnied with another dark
