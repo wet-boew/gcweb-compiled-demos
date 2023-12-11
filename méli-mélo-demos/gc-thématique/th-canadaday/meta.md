@@ -13,10 +13,11 @@ cssClass:
   - bg-canadaday-beige
   - canadaday
   - panel-canadaday-card
+  - panel-canadaday-card-compact
 a11yStatement: >
   These colours meet the colour contrast requirements as outlined in WCAG 2.1 AA
   Success Criterion 1.4.3: Contrast (Minimum). Tested by Nick Frenette,
-  nick.frenette at canada.ca. 2023-05-12.
+  nick.frenette at pch.gc.ca. 2023-12-06.
 peNote:
   - >-
     The <code>bg-canadaday</code> class must be accompagnied with another dark
