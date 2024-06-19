@@ -11,21 +11,24 @@ feature: méli-mélo
     '@container': '@language'
   modified: dct:modified
 title:
-  en: Steps list
+  en: List steps
   fr: Liste d'étape
 description:
   en: Style ordered list and divs with steps number in circles.
   fr: >-
     Mise en style d'une liste ordonnée et de divs avec des numéros d'étape dans
     un cercle
-modified: 2021-05-21T00:00:00.000Z
+modified: 2024-05-30T00:00:00.000Z
 componentName: 2021-05-steps
 sponsor: CRA - Christopher Oakes (@christopher-o)
 pages:
   examples:
-    - title: Steps
+    - title: List steps
       language: en
       path: index.html
+    - title: Liste des étapes
+      language: fr
+      path: index-fr.html
 implementationPlan:
   - due: 2021-06
     what: Engage with TBS to show them this design pattern
@@ -43,8 +46,10 @@ implementationPlan:
     what: >-
       review updated CSS and governance added to validate usability toward
       stable
+  - due: 2024-05
+    what: change name of component to better reflect use case
 todos:
-  - Review governance and rationale for the use of both designs
+  - Finalize design
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2024-09-kejimkujik.js
