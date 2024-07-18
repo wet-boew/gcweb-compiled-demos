@@ -661,7 +661,8 @@ button.wb-clipboard-btn:not(.btn-xs) .glyphicon {
 }
 
 /* Customisation for the progress bar and text */
-.provisional.wb-steps.quiz progress.progressBar{
+.provisional.wb-steps.quiz progress.progressBar,
+.provisional.wb-steps.quiz label {
 	/*-webkit-appearance: progress-bar;*/
 	width: 100%;
 }
