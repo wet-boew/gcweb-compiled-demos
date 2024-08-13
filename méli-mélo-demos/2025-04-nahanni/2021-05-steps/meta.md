@@ -62,6 +62,10 @@ changes:
       Created a cleaner look for items using list steps with a smaller amount of
       content. Made the numbers more visible for edge case scenarios of print
       and high contrast.
+  - date: 2024-08-07T00:00:00.000Z
+    description: Fixed issue with printing pages as some text would be cut off
+    departmentImpact: No change from a departmental perspective.
+    publicImpact: Improved look of print document
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-04-nahanni.js
