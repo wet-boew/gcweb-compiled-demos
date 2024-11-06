@@ -18,7 +18,7 @@ description:
   fr: >-
     Mise en style d'une liste ordonnée et de divs avec des numéros d'étape dans
     un cercle
-modified: 2024-05-30T00:00:00.000Z
+modified: 2024-10-31T00:00:00.000Z
 componentName: 2021-05-steps
 sponsor: CRA - Christopher Oakes (@christopher-o)
 pages:
@@ -66,6 +66,10 @@ changes:
     description: Fixed issue with printing pages as some text would be cut off
     departmentImpact: No change from a departmental perspective.
     publicImpact: Improved look of print document
+  - date: 2024-10-30T00:00:00.000Z
+    description: Added customized option to use start attribute for items 2 to 10
+    departmentImpact: No change from a departmental perspective.
+    publicImpact: Enhanced flexibility to better mimic ordered lists using HTML
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-04-nahanni.js
