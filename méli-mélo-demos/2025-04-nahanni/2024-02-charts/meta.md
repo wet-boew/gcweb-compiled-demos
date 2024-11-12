@@ -14,8 +14,9 @@ title:
   en: Charts
 description:
   en: Create a visual representation of data in a table.
-modified: 2024-02-26T00:00:00.000Z
+modified: 2024-11-08T00:00:00.000Z
 componentName: 2024-02-charts
+status: Abandoned
 sponsor: Principal Publisher - ESDC, on behalf of CRA
 pages:
   examples:
