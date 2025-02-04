@@ -105,6 +105,16 @@ todosFR:
     Envisager d'ajouter d'autres classes de manipulation de données
     (pourcentage)?
 changes:
+  - date: 2025-01-23T00:00:00.000Z
+    description: >-
+      Change was to fix a bug with tables that have hidden columns. The hidden
+      columns caused the formatting to apply to the wrong column.
+    departmentImpact: >-
+      The bug is now fixed and the workaround of having to move the hidden
+      columns to the end is no longer necessary.
+    publicImpact: >-
+      The bug is now fixed and the workaround of having to move the hidden
+      columns to the end is no longer necessary.
   - date: 2024-11-01T00:00:00.000Z
     description: >-
       DataTable Utilities, includes Data Manipulation Classes for emails, Urls

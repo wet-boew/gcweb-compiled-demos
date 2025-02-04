@@ -4,7 +4,7 @@ lang: en
 title: Zero Emission Vehicles (ZEV) Theme
 description: Background colours used for NRCan's ZEV campaign
 componentName: th-zev
-expiry: May 31, 2024
+expiry: May 31, 2026
 mainPage: zev.html
 cssClass:
   - bg-zev-purple
@@ -39,7 +39,9 @@ pages:
     - title: Zero Emission Vehicles (ZEV) Theme
       language: en
       path: zev.html
-sponsor: NRCan - Eric Goodwin (@auxonic)
+sponsor: >-
+  NRCan - Eric Goodwin (@auxonic), NRCan - Gérard Dicks Pellerin
+  (Gerard.DicksPellerin@nrcan-rncan.gc.ca)
 output: false
 script: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/gc-thématique.js
 css: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/gc-thématique.css
