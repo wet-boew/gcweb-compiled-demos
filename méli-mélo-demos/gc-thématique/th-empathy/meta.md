@@ -9,6 +9,9 @@ mainPage: empathy.html
 cssClass:
   - empathy
   - btn-empathy
+  - text-empathy
+jsFunctions:
+  - init - on detection of .provisional.gc-empathy
 a11yStatement: >
   These colours meet the colour contrast requirements as outlined in WCAG 2.1 AA
   Success Criterion 1.4.3: Contrast (Minimum). After validation using webaim
@@ -27,7 +30,13 @@ pages:
     - title: Empathy theme
       language: en
       path: empathy.html
-sponsor: ESDC - Principal Publisher
+    - title: Death layout
+      language: en
+      path: death.html
+    - title: Checklist layout
+      language: en
+      path: checklist.html
+sponsor: Francis Snoddy on behalf of ESDC - Portfolio Web
 changes:
   - date: 2024-12-02T00:00:00.000Z
     description: >-
