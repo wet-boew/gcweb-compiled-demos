@@ -36,7 +36,7 @@ implementationPlan:
   - due: 2025-05
     what: Standardisation of the Steps Form plugin.
   - due: 2026-05
-    what: Have this feature officialy integrated to the Steps Form plugin.
+    what: Have this feature officially integrated to the Steps Form plugin.
 a11y:
   - >-
     2024-06-25 - <a href="reports/a11y-1-en.html">Accessibility assessment no.1
@@ -45,7 +45,7 @@ todos:
   - Write governance and rationale for the use of this design.
   - >-
     Optimize code as suggested in the <a
-    href="https://github.com/wet-boew/GCWeb/pull/2347">Github pull request
+    href="https://github.com/wet-boew/GCWeb/pull/2347">GitHub pull request
     &#35;2347</a>.
 changes:
   - date: 2024-07-15T00:00:00.000Z
@@ -60,7 +60,7 @@ changes:
       accessibility.
     publicImpact: >-
       Access to content that complies with official languages and that meets
-      WCAG accessibilty guidlines 2.1.
+      WCAG accessibility guidelines 2.1.
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-04-nahanni.js

@@ -35,7 +35,7 @@ implementationPlan:
     what: Initial Development <span class="label label-success">Completed</span>
   - due: 2024-10-01T00:00:00.000Z
     what: >-
-      Get Intial Feedback from Wet-Boew Team Before Pull Request <span
+      Get Initial Feedback from Wet-Boew Team Before Pull Request <span
       class="label label-success">Completed</span>
   - due: 2024-10-08T00:00:00.000Z
     what: >-
@@ -47,11 +47,11 @@ implementationPlan:
       label-success">Completed</span>
   - due: 2024-10-15T00:00:00.000Z
     what: >-
-      Get Pages throuh our QC cycle and our WACR Team <span class="label
+      Get Pages through our QC cycle and our WACR Team <span class="label
       label-success">Completed</span>
   - due: 2024-10-22T00:00:00.000Z
     what: >-
-      Fix Identified problems and accesibility issues <span class="label
+      Fix Identified problems and accessibility issues <span class="label
       label-success">Completed</span>
   - due: 2024-10-24T00:00:00.000Z
     what: Submit Pull Request <span class="label label-success">Completed</span>
@@ -65,31 +65,31 @@ implementationPlan:
       Progress</span>
 implementationPlanFR:
   - due: 2024-09-24T00:00:00.000Z
-    what: Dévélopement initial <span class="label label-success">Completé</span>
+    what: Développement initial <span class="label label-success">Complété</span>
   - due: 2024-10-01T00:00:00.000Z
     what: >-
       Obtenir des rétroaction de l'équipe Wet-Boew avant la demande de tirage
-      <span class="label label-success">Completé</span>
+      <span class="label label-success">Complété</span>
   - due: 2024-10-08T00:00:00.000Z
     what: >-
       Corriger tout problèmes identifiés par l'équipe Wet-Boew <span
-      class="label label-success">Completé</span>
+      class="label label-success">Complété</span>
   - due: 2024-10-12T00:00:00.000Z
     what: >-
       Faire traduire la page d'exemple en français <span class="label
-      label-success">Completé</span>
+      label-success">Complété</span>
   - due: 2024-10-15T00:00:00.000Z
     what: >-
       Soumettre les pages à notre processus de CQ et à notre équipe ECAW <span
-      class="label label-success">Completé</span>
+      class="label label-success">Complété</span>
   - due: 2024-10-22T00:00:00.000Z
     what: >-
       Corriger les problèmes identifiés et les problèmes d'accessibilité <span
-      class="label label-success">Completé</span>
+      class="label label-success">Complété</span>
   - due: 2024-10-24T00:00:00.000Z
     what: >-
       Soumettre la demandes de tirage <span class="label
-      label-success">Completé</span>
+      label-success">Complété</span>
   - due: 2025-11-30T00:00:00.000Z
     what: >-
       Produce accessibility conformance report <span class="label
@@ -120,11 +120,10 @@ changes:
       DataTable Utilities, includes Data Manipulation Classes for emails, Urls
       and Money. Also Includes Datatable Footer Totals
     departmentImpact: >-
-      Having this plugin intergrated will make the transition to Canada.ca
-      easier as these features are already in use on
-      https://www.tpsgc-pwgsc.gc.ca, currently some of the pages that make use
-      of this plugin and other pages that make use of Other Javascripts are just
-      pointed to from Canada.ca
+      Having this plugin integrated will make the transition to Canada.ca easier
+      as these features are already in use on https://www.tpsgc-pwgsc.gc.ca,
+      currently some of the pages that make use of this plugin and other pages
+      that make use of Other JavaScripts are just pointed to from Canada.ca
     publicImpact: >-
       The Public at Large, the plugin makes DataTables more user friendly with
       Clickable Links, and they are used to this functionality our PRE Canada.ca

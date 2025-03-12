@@ -20,10 +20,10 @@ a11yStatement: >
   nick.frenette at pch.gc.ca. 2023-12-06.
 peNote:
   - >-
-    The <code>bg-canadaday</code> class must be accompagnied with another dark
+    The <code>bg-canadaday</code> class must be accompanied with another dark
     contrast background colour such as <code>bg-dark</code>
   - >-
-    The <code>panel-canadaday</code> class must be accompagnied with a fall back
+    The <code>panel-canadaday</code> class must be accompanied with a fall back
     color such as <code>panel-default</code>
   - >-
     Use <code>bg-canadaday-beige</code> with standard text colour to ensure

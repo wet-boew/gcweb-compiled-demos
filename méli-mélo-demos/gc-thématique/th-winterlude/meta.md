@@ -18,11 +18,11 @@ a11yStatement: >
   nick.frenette at canada.ca. 2023-01-03.
 peNote:
   - >-
-    The <code>bg-winterlude</code> class must be accompagnied with another dark
+    The <code>bg-winterlude</code> class must be accompanied with another dark
     contrast background colour such as <code>bg-dark</code>
   - >-
-    The <code>panel-winterlude</code> class must be accompagnied with a fall
-    back color such as <code>panel-default</code>
+    The <code>panel-winterlude</code> class must be accompanied with a fall back
+    color such as <code>panel-default</code>
   - >-
     Use <code>bg-winterlude-lightblue</code> with standard text colour to ensure
     sufficient contrast between text and background

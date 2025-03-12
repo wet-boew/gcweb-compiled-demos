@@ -14,16 +14,17 @@ jsFunctions:
   - init - on detection of .provisional.gc-empathy
 a11yStatement: >
   These colours meet the colour contrast requirements as outlined in WCAG 2.1 AA
-  Success Criterion 1.4.3: Contrast (Minimum). After validation using webaim
+  Success Criterion 1.4.3: Contrast (Minimum). After validation using WebAIM
   online contrast checker, I can certified that the color matches used in this
   thematic are meeting a contrast ratio of at least 4.5:1 for normal text and
   3:1 for large text and also a contrast ratio of at least 3:1 for graphics and
   user interface components. I did my due diligence and to knowledge and from my
-  understanding, all elements of this thematic are meeting WCAG 2.1 AA standrds.
-  Tested by Eric Guitard, eric.guitard@servicecanada.gc.ca. 2024-04-30.
+  understanding, all elements of this thematic are meeting WCAG 2.1 AA
+  standards. Tested by Eric Guitard, eric.guitard@servicecanada.gc.ca.
+  2024-04-30.
 peNote:
   - >-
-    The <code>btn-empathy</code> class must be accompagnied with a fall back
+    The <code>btn-empathy</code> class must be accompanied with a fall back
     button class such as <code>btn-default</code> or <code>btn-primary</code>.
 pages:
   examples:
@@ -44,7 +45,7 @@ changes:
       the home page layout to be used by current and future Life Journey
       projects
     departmentImpact: >-
-      Having this layout intergrated will allow Canada.ca to have a more
+      Having this layout integrated will allow Canada.ca to have a more
       streamlined and consistent theme throughout the Journey Labs projects.
       Currently the pages that make use of this layout have it hardcoded into
       the page
