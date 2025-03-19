@@ -61,6 +61,10 @@ changes:
     publicImpact: >-
       Access to content that complies with official languages and that meets
       WCAG accessibility guidelines 2.1.
+  - date: 2024-03-18T00:00:00.000Z
+    description: This patch on the steps quiz allows nesting of fieldset.
+    departmentImpact: Allows ESDC to respect ITAO's advice to be more accessible.
+    publicImpact: Improve accessibility on some scenarios of pages using this plugin.
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-04-nahanni.js
