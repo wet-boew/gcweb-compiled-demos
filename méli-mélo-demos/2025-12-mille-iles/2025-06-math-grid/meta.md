@@ -42,7 +42,13 @@ implementationPlan:
     what: Produce accessibility and usability report on its usage on Canada.ca
 todos:
   - Finalize design
-changes: null
+changes:
+  - Change: >-
+      Add separation to rows rather than padding of cells, and to fix override
+      issue
+    How this affects design: >-
+      Adds no visual difference, except when using borders, borders will now
+      have better separation.
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-12-mille-iles.js
