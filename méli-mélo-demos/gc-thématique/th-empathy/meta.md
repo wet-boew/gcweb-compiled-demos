@@ -4,7 +4,7 @@ lang: en
 title: Empathy theme
 description: Background colours used for empathy.
 componentName: th-empathy
-expiry: November 30, 2025
+expiry: November 30, 2026
 mainPage: empathy.html
 cssClass:
   - empathy
@@ -39,6 +39,11 @@ pages:
       path: checklist.html
 sponsor: Francis Snoddy on behalf of ESDC - Portfolio Web
 changes:
+  - date: 2025-11-04T00:00:00.000Z
+    description: >-
+      The thematic has been renewed for another year therefore, the expiry date
+      has been updated to Nov 30, 2026.
+    publicImpact: No impact only minor content change.
   - date: 2025-10-22T00:00:00.000Z
     description: >-
       Removal of the custom purple color for the bar underneath the main title
