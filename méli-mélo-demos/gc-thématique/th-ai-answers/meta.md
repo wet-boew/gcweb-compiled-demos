@@ -31,10 +31,17 @@ pages:
     - title: Thématique réponses IA
       language: fr
       path: index-fr.html
+    - title: Edge case for AI Answers banner
+      language: en
+      path: edge-case.html
 sponsor: >-
   Marc-André Garneau, Principal Publisher on behalf of Digital Transformation
   Office (DTO)
 changes:
+  - date: 2025-12-04T00:00:00.000Z
+    description: >-
+      Added edge case example page to demonstrate behaviour when integrated into
+      AEM.
   - date: 2025-12-01T00:00:00.000Z
     description: >-
       This thematic provides a top banner to invite users to the beta testing of
