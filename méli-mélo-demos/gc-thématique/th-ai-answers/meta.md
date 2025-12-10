@@ -38,6 +38,10 @@ sponsor: >-
   Marc-André Garneau, Principal Publisher on behalf of Digital Transformation
   Office (DTO)
 changes:
+  - date: 2025-12-10T00:00:00.000Z
+    description: >-
+      Updated analytics strings to be bilingual and replaced invalid quotation
+      marks with valid ones.
   - date: 2025-12-04T00:00:00.000Z
     description: >-
       Added edge case example page to demonstrate behaviour when integrated into
