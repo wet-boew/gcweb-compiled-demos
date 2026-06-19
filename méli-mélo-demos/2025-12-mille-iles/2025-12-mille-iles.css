@@ -508,6 +508,10 @@ ol.lst-stps[start="9"] {
   .wb-math-grid  div.mg-row > :not(.mg-cell) {
       display: none;
     }
+    /* keeps width minimal to size of contents (when using full-width) */
+  .wb-math-grid div.mg-cell.mg-min-wdth {
+      width: 1%;
+    }
 
 /*------
 * Deprecated styles

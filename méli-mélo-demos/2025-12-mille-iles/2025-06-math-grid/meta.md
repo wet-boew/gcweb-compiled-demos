@@ -20,7 +20,7 @@ description:
   fr: >-
     Un modèle accessible, imprimable et compréhensible pour des équations
     mathématiques simples.
-modified: 2025-06-05T00:00:00.000Z
+modified: 2026-06-15T00:00:00.000Z
 componentName: 2025-06-math-grid
 sponsor: CRA - Christopher Oakes (@christopher-o)
 pages:
@@ -49,6 +49,14 @@ changes:
     How this affects design: >-
       Adds no visual difference, except when using borders, borders will now
       have better separation.
+  - date: 2026-06-16T00:00:00.000Z
+    description: >-
+      Added a min-width feature to better visually align equations (more notable
+      on desktop)
+    departmentImpact: No impact on existing instances of component
+    publicImpact: >-
+      Will create more aligned calculations (visually appealing), no impact to
+      accessibility
 output: false
 script: >-
   https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-12-mille-iles.js
