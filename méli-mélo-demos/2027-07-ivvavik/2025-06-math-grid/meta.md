@@ -59,7 +59,7 @@ changes:
       accessibility
 output: false
 script: >-
-  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-12-mille-iles.js
+  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2027-07-ivvavik.js
 css: >-
-  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2025-12-mille-iles.css
+  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2027-07-ivvavik.css
 ---
