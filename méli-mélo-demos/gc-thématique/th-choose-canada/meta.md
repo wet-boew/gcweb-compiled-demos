@@ -26,7 +26,7 @@ note: >
   The Choose Canada banner is sponsored by PCO. The Choose Canada cards are
   sponsored by DTO.
 changes:
-  - date: 2025-05-14T00:00:00.000Z
+  - date: '2025-05-14'
     description: >-
       Card-based layout for Choose Canada campaign that organizes content into
       visually distinct panels grouping related information (title, description)

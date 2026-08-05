@@ -20,7 +20,7 @@ description:
   fr: >-
     Un modèle accessible, imprimable et compréhensible pour des équations
     mathématiques simples.
-modified: 2026-06-15T00:00:00.000Z
+modified: '2026-06-15'
 componentName: 2025-06-math-grid
 sponsor: CRA - Christopher Oakes (@christopher-o)
 pages:
@@ -49,7 +49,7 @@ changes:
     How this affects design: >-
       Adds no visual difference, except when using borders, borders will now
       have better separation.
-  - date: 2026-06-16T00:00:00.000Z
+  - date: '2026-06-16'
     description: >-
       Added a min-width feature to better visually align equations (more notable
       on desktop)

@@ -43,7 +43,7 @@ sponsor: >-
   Marc-André Garneau, Principal Publisher on behalf of Digital Transformation
   Office (DTO)
 changes:
-  - date: 2025-01-08T00:00:00.000Z
+  - date: '2025-01-08'
     description: >-
       Moved the banner to the bottom of the page instead of the top and added
       option to customize the banner and rescue text content via data
@@ -72,15 +72,15 @@ changes:
       that are part of the trials. For those not seeking help, the impact is
       negligible since the banner is very small and can be dismissed to remove
       it.
-  - date: 2025-12-10T00:00:00.000Z
+  - date: '2025-12-10'
     description: >-
       Updated analytics strings to be bilingual and replaced invalid quotation
       marks with valid ones.
-  - date: 2025-12-04T00:00:00.000Z
+  - date: '2025-12-04'
     description: >-
       Added edge case example page to demonstrate behaviour when integrated into
       AEM.
-  - date: 2025-12-01T00:00:00.000Z
+  - date: '2025-12-01'
     description: >-
       This thematic provides a top banner to invite users to the beta testing of
       AI Answers. The banner includes a close button to dismiss the banner. The

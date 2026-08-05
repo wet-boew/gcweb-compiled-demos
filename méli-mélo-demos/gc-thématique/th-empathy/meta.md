@@ -39,12 +39,12 @@ pages:
       path: checklist.html
 sponsor: Francis Snoddy on behalf of ESDC - Portfolio Web
 changes:
-  - date: 2025-11-04T00:00:00.000Z
+  - date: '2025-11-04'
     description: >-
       The thematic has been renewed for another year therefore, the expiry date
       has been updated to Nov 30, 2026.
     publicImpact: No impact only minor content change.
-  - date: 2025-10-22T00:00:00.000Z
+  - date: '2025-10-22'
     description: >-
       Removal of the custom purple color for the bar underneath the main title
       H1 of the thematic. The coporate red color will now be applied on page
@@ -52,7 +52,7 @@ changes:
     publicImpact: >-
       No impact since that the only site "What to do when someone dies" make use
       of this thematic is already using the red underline.
-  - date: 2024-12-02T00:00:00.000Z
+  - date: '2024-12-02'
     description: >-
       Life Journey home page layout, includes the code and an example to enable
       the home page layout to be used by current and future Life Journey
