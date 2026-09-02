@@ -58,8 +58,6 @@ changes:
       Will create more aligned calculations (visually appealing), no impact to
       accessibility
 output: false
-script: >-
-  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2027-07-ivvavik.js
-css: >-
-  https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2027-07-ivvavik.css
+script: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2027-07-ivvavik.js
+css: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2027-07-ivvavik.css
 ---
